@@ -34,4 +34,4 @@
     * http://ruseller.com/lessons.php?rub=28&id=2035
     * http://cluster.krc.karelia.ru/doc/rukovodstvo_GIT.pdf
     
-на гитхаб
+local
